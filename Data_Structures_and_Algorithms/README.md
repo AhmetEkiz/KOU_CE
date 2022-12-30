@@ -25,3 +25,7 @@ g++ .\w4_sorting_and_searching\selection_sort.c .\utils\utils.c -o .\w4_sorting_
 # to run insertion_sort.exe
 .\w4_sorting_and_searching\selection_sort.exe
 ```
+
+# TODO
+- [ ] Compile commands should be moved to the folders that related codes.
+- [ ] utils folder should be moved to the folders that related codes.
