@@ -25,3 +25,7 @@ g++ .\w4_sorting_and_searching\selection_sort.c .\utils\utils.c -o .\w4_sorting_
 # to run insertion_sort.exe
 .\w4_sorting_and_searching\selection_sort.exe
 ```
+
+# Todos
+
+- [ ] Put Algorithms Visualizations
