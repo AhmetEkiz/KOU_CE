@@ -26,6 +26,12 @@ g++ .\w4_sorting_and_searching\selection_sort.c .\utils\utils.c -o .\w4_sorting_
 .\w4_sorting_and_searching\selection_sort.exe
 ```
 
+<<<<<<< HEAD
 # Todos
 
 - [ ] Put Algorithms Visualizations
+=======
+# TODO
+- [ ] Compile commands should be moved to the folders that related codes.
+- [ ] utils folder should be moved to the folders that related codes.
+>>>>>>> 3cfdb02796e8147f4a2fa81ddea4145fabde51a6
