@@ -26,7 +26,6 @@ g++ .\w4_sorting_and_searching\selection_sort.c .\utils\utils.c -o .\w4_sorting_
 .\w4_sorting_and_searching\selection_sort.exe
 ```
 
-<<<<<<< HEAD
 # Todos
 
 - [ ] Put Algorithms Visualizations
